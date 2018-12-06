@@ -22,3 +22,6 @@
 [submodule "pack/syntax/start/javascript"]
 	path = pack/syntax/start/javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/syntax/start/jsx"]
+	path = pack/syntax/start/jsx
+	url = https://github.com/mxw/vim-jsx.git
