@@ -34,3 +34,6 @@
 [submodule "pack/syntax/start/ps1"]
 	path = pack/syntax/start/ps1
 	url = https://github.com/PProvost/vim-ps1.git
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/w0rp/ale.git
