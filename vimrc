@@ -1,7 +1,7 @@
-packadd! vim-onedark
+packadd! onedark
 
 " Environement variable for Language Server Protocol
-set rtp+=~/.vim/pack/plugins/start/vim-lsp
+set rtp+=~/.vim/pack/plugins/start/language-client
 let g:LanguageClient_serverCommands = {
   \ 'haskell': ['hie-wrapper'],
   \ }
@@ -96,7 +96,7 @@ let NERDTreeMinimalUI=1
 let NERDTreeDirArrows=1
 
 " ctrlp plugin
-let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
+" let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
 
 " switch konsole colorscheme when using vim and restore it when leaving
 " see /usr/share/konsole for base colorscheme 
