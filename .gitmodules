@@ -25,3 +25,6 @@
 [submodule "pack/syntax/start/jsx"]
 	path = pack/syntax/start/jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "pack/syntax/start/haskell"]
+	path = pack/syntax/start/haskell
+	url = https://github.com/neovimhaskell/haskell-vim.git
