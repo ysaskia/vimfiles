@@ -37,3 +37,6 @@
 [submodule "pack/plugins/start/ale"]
 	path = pack/plugins/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "pack/plugins/start/language-client"]
+	path = pack/plugins/start/language-client
+	url = https://github.com/autozimu/LanguageClient-neovim.git
