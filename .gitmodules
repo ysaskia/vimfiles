@@ -28,3 +28,6 @@
 [submodule "pack/syntax/start/haskell"]
 	path = pack/syntax/start/haskell
 	url = https://github.com/neovimhaskell/haskell-vim.git
+[submodule "pack/syntax/start/csharp"]
+	path = pack/syntax/start/csharp
+	url = https://github.com/OrangeT/vim-csharp.git
