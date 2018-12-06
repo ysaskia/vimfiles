@@ -16,3 +16,6 @@
 [submodule "pack/vcs/start/gitgutter"]
 	path = pack/vcs/start/gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/vcs/start/fugitive"]
+	path = pack/vcs/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
