@@ -14,9 +14,6 @@ set termguicolors
 " Select colorshceme to use
 colorscheme onedark
 
-let g:gruvbox_sign_column='bg0'
-let g:gruvbox_number_column='bg0'
-
 " Set character encoding
 set encoding=UTF-8
 
@@ -87,16 +84,9 @@ let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme = 'onedark'
 
-" nerdtre autoopen
-" autocmd VimEnter * NERDTree
-" autocmd BufWinEnter * NERDTreeMirror
-" autocmd VimEnter * wincmd w
-
+" nerdtree 
 let NERDTreeMinimalUI=1
 let NERDTreeDirArrows=1
-
-" ctrlp plugin
-" let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
 
 " switch konsole colorscheme when using vim and restore it when leaving
 " see /usr/share/konsole for base colorscheme 
