@@ -40,3 +40,6 @@
 [submodule "pack/plugins/start/language-client"]
 	path = pack/plugins/start/language-client
 	url = https://github.com/autozimu/LanguageClient-neovim.git
+[submodule "pack/colorscheme/start/gruvbox"]
+	path = pack/colorscheme/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
