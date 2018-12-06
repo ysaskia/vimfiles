@@ -31,3 +31,6 @@
 [submodule "pack/syntax/start/csharp"]
 	path = pack/syntax/start/csharp
 	url = https://github.com/OrangeT/vim-csharp.git
+[submodule "pack/syntax/start/ps1"]
+	path = pack/syntax/start/ps1
+	url = https://github.com/PProvost/vim-ps1.git
