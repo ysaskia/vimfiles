@@ -37,3 +37,6 @@
 [submodule "pack/syntax/start/rust"]
 	path = pack/syntax/start/rust
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/syntax/start/purescript-vim"]
+	path = pack/syntax/start/purescript-vim
+	url = https://github.com/purescript-contrib/purescript-vim.git
