@@ -93,3 +93,4 @@ let NERDTreeDirArrows=1
 " see ~/.local/share/konsole for custom colorscheme
 " autocmd VimEnter * :silent exec '!konsoleprofile "colors=One Dark"'
 " autocmd VimLeave * :silent exec '!konsoleprofile "colors=Linux"'
+
