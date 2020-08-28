@@ -4,9 +4,6 @@
 [submodule "pack/ux/start/airline-theme"]
 	path = pack/ux/start/airline-theme
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "pack/ux/start/devicons"]
-	path = pack/ux/start/devicons
-	url = https://github.com/ryanoasis/vim-devicons.git
 [submodule "pack/vcs/start/gitgutter"]
 	path = pack/vcs/start/gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
