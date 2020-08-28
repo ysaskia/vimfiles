@@ -7,9 +7,6 @@
 [submodule "pack/ux/start/devicons"]
 	path = pack/ux/start/devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
-[submodule "pack/ux/start/nerdtree"]
-	path = pack/ux/start/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "pack/vcs/start/gitgutter"]
 	path = pack/vcs/start/gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
@@ -40,3 +37,6 @@
 [submodule "pack/syntax/start/rust"]
 	path = pack/syntax/start/rust
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/syntax/start/purescript-vim"]
+	path = pack/syntax/start/purescript-vim
+	url = https://github.com/purescript-contrib/purescript-vim.git

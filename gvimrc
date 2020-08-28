@@ -11,4 +11,4 @@ set guioptions -=r
 " remove left-hand scroll bar
 set guioptions -=L 
 " sets font
-set guifont=FuraCode_NF:h11
+set guifont=Jetbrains_Mono:h12
