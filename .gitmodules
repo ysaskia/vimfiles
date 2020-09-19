@@ -37,3 +37,6 @@
 [submodule "pack/syntax/start/purescript-vim"]
 	path = pack/syntax/start/purescript-vim
 	url = https://github.com/purescript-contrib/purescript-vim.git
+[submodule ".\\pack\\syntax\\start\\graphql"]
+	path = .\\pack\\syntax\\start\\graphql
+	url = https://github.com/jparise/vim-graphql.git
