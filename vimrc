@@ -93,3 +93,12 @@ let NERDTreeDirArrows=1
 " see ~/.local/share/konsole for custom colorscheme
 " autocmd VimEnter * :silent exec '!konsoleprofile "colors=One Dark"'
 " autocmd VimLeave * :silent exec '!konsoleprofile "colors=Linux"'
+
+
+" cursor shape for windows terminal
+" insert mode
+let &t_SI .= "\e[6 q"
+" replace mode
+let &t_SR .= "\e[4 q"
+" normal mode (ELSE)
+let &t_EI .= "\e[1 q"
