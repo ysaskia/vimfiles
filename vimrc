@@ -85,15 +85,14 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline_theme = 'onedark'
 
 " nerdtree 
-let NERDTreeMinimalUI=1
-let NERDTreeDirArrows=1
+"let NERDTreeMinimalUI=1
+"let NERDTreeDirArrows=1
 
 " switch konsole colorscheme when using vim and restore it when leaving
 " see /usr/share/konsole for base colorscheme 
 " see ~/.local/share/konsole for custom colorscheme
 " autocmd VimEnter * :silent exec '!konsoleprofile "colors=One Dark"'
 " autocmd VimLeave * :silent exec '!konsoleprofile "colors=Linux"'
-
 
 " cursor shape for windows terminal
 " insert mode
