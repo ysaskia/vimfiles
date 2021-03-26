@@ -43,3 +43,6 @@
 [submodule ".\\pack\\plugins\\start\\coc"]
 	path = .\\pack\\plugins\\start\\coc
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule ".\\pack\\colorscheme\\opt\\solarized8"]
+	path = .\\pack\\colorscheme\\opt\\solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
