@@ -40,8 +40,8 @@
 [submodule "pack/syntax/start/graphql"]
 	path = pack/syntax/start/graphql
 	url = https://github.com/jparise/vim-graphql.git
-[submodule ".\\pack\\plugins\\start\\coc"]
-	path = .\\pack\\plugins\\start\\coc
+[submodule "pack/plugins/start/coc"]
+	path = pack/plugins/start/coc
 	url = https://github.com/neoclide/coc.nvim.git
 [submodule ".\\pack\\colorscheme\\opt\\solarized8"]
 	path = .\\pack\\colorscheme\\opt\\solarized8
